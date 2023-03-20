@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![A happy dog wagging its tail](https://media.giphy.com/media/l0MYKOhO4F4z0aVU4/giphy.gif)
+![Myself programming]([https://media.giphy.com/media/l0MYKOhO4F4z0aVU4/giphy.gif](https://i.makeagif.com/media/8-17-2015/ow6u2T.gif))
 
