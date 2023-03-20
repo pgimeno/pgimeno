@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![]([[https://github.com/pgimeno/Gifs/blob/main/programmer-programming.gif](https://github.com/pgimeno/Gifs/blob/main/programmer-programming.gif?raw=true)]
+![A happy dog wagging its tail](https://media.giphy.com/media/l0MYKOhO4F4z0aVU4/giphy.gif)
 
