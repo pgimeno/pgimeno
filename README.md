@@ -1,4 +1,4 @@
-<h1> About Me 🧑‍💻👋</h1>
+<h2> About Me 🧑‍💻👋</h2>
 
 I'm a passionate and driven junior developer with experience in the following technologies:
 
