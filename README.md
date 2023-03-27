@@ -1,3 +1,7 @@
+<div id="badges">
+  <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
+</div>
+
 <h2> About Me 🧑‍💻👋</h2>
 
 I'm a passionate and driven junior developer with experience in the following technologies:
