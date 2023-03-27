@@ -1,4 +1,4 @@
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.instagram.com/polgimeno/">
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
   <a href="https://www.linkedin.com">
