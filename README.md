@@ -1,5 +1,9 @@
 <div id="badges">
-  <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
+  <a href="https://www.instagram.com/polgimeno/">
+    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
+     <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin"/>
+    
 </div>
 
 <h2> About Me 🧑‍💻👋</h2>
