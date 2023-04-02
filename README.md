@@ -13,7 +13,7 @@
 
 I'm a passionate and driven junior developer with experience in the following technologies:
 
-<div>
+<div align="center">
  <table>
   <tbody>
     <tr>
