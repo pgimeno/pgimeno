@@ -98,5 +98,5 @@ If you're interested in working together or have any questions, please don't hes
 
 
 <p align="center">
-  <img src="https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif" alt="animated" />
+  <img src="https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif" alt="animated" width="48" height="48" />
 </p>
