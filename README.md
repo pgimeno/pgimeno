@@ -98,5 +98,5 @@ If you're interested in working together or have any questions, please don't hes
 
 
 <p align="center">
-  <img src="https://i.makeagif.com/media/8-17-2015/ow6u2T.gif" alt="animated" />
+  <img src="https://media.tenor.com/kSiC-0wGr4kAAAAd/monkey-technology.gif" alt="animated" />
 </p>
