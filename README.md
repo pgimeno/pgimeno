@@ -1,7 +1,7 @@
 <div id="badges" align="center">
   <a href="https://www.instagram.com/polgimeno/">
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/pgimenol">
     <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin"/>
   <a href="https://t.me/pg995">
     <img src="https://img.shields.io/badge/Telegram-9cf?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
